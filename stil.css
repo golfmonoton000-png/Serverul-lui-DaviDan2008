@@ -1,0 +1,23 @@
+body {
+background-color: #103;
+color: blue;
+font-family: Arial;
+text-align: center;
+}
+
+h1 {
+color: red;
+font-size: 75px;
+}
+
+p {
+font-size: 45px;
+color: green;
+}
+
+botton {
+background: white;
+color: black;
+padding: 20px 40px;
+border-radius: 10px
+}
